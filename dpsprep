@@ -1,4 +1,4 @@
-#!/usr/bin/env conda run -n base python
+#! /Users/glebsokolov/opt/anaconda3/bin/python
 # dpsprep - Sony Digital Paper DJVU to PDF converter
 # Copyright(c) 2015 Kevin Croker
 # GNU GPL v3
